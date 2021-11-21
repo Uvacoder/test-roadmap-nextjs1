@@ -30,7 +30,7 @@ export default function Home(props: HomeProps) {
       <Box>
         <Container maxW='container.md'>
           <Box py={['23px', '23px', '35px']}>
-            <Heading fontSize={['22px', '22px', '28px']} mb={['8px', '8px', '15px']}>Hey there! 👋</Heading>
+            <Heading fontSize={['22px', '22px', '28px']} mb={['8px', '8px', '15px']}>Hey abc there! 👋</Heading>
             <Text fontSize={['14px', '14px', '16px']} mb='10px'>
               <Text fontWeight={500} as='span'>roadmap.sh</Text> is a community effort to create roadmaps, guides and
               other educational content
